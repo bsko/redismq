@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RedisMQ:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="message-queue.war">
+      <element id="artifact" artifact-name="RedisMQ:war exploded" />
+    </root>
+  </artifact>
+</component>
